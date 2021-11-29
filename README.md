@@ -206,7 +206,8 @@ Apabila kita menginput 'k' maka program akan langsung berhenti.
         print("Pilih menu yang tersedia")
 ```
 Jika kita menginputkan selain yang ada pada menu (t, u, h, c, l, k) maka kita akan diminta untuk memilih menu yang tersedia.
-
+###FLOWCHART
+![flowchart](https://github.com/ariandto/dicti/blob/main/pict/pict7.png)
 ##Hasil Program
 ##### Tambah Data
 ![tambah data](https://github.com/ariandto/dicti/blob/main/pict/pict1.png)
@@ -215,13 +216,13 @@ Jika kita menginputkan selain yang ada pada menu (t, u, h, c, l, k) maka kita ak
 ![ubah data](https://github.com/ariandto/dicti/blob/main/pict/pict2.png)
 
 ##### Melihat perubahan data
-![cari data](https://github.com/ariandto/dicti/blob/main/pict/pict3.png)
+![lihat data](https://github.com/ariandto/dicti/blob/main/pict/pict3.png)
 
 ##### Mencari data
 ![hapus data](https://github.com/ariandto/dicti/blob/main/pict/pict4.png)
 
 ##### Lihat data lagi
-![keluar](https://github.com/ariandto/dicti/blob/main/pict/pict5.png)
+![lihat](https://github.com/ariandto/dicti/blob/main/pict/pict5.png)
 
 ##### Keluar    
 ![keluar](https://github.com/ariandto/dicti/blob/main/pict/pict6.png)
