@@ -2,11 +2,12 @@
 
 ### Program Data Mahasiswa
 membuat data mahasiswa menggunakan Dictionary dengan python.</p>
-NAMA    : BUDI ARIYANTO
-KELAS   : T1.21.A.1
-NIM     : 312110159
+NAMA    : BUDI ARIYANTO</p>
+KELAS   : T1.21.A.1</p>
+NIM     : 312110159</p>
+UNIVERSITAS PELITA BANGSA CIKARANG</p>
 
-#### Codingan Praktikum 5
+#### Source Code
 
 ```python
 x = {}
