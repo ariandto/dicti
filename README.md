@@ -1,7 +1,7 @@
 # Praktikum 5
 
 ### Program Data Mahasiswa
-membuat data mahasiswa menggunakan Dictionary dengan python.<\p>
+membuat data mahasiswa menggunakan Dictionary dengan python.</p>
 NAMA    : BUDI ARIYANTO
 KELAS   : T1.21.A.1
 NIM     : 312110159
