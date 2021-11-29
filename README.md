@@ -214,14 +214,14 @@ Jika kita menginputkan selain yang ada pada menu (t, u, h, c, l, k) maka kita ak
 ##### Ubah Data
 ![ubah data](https://github.com/ariandto/dicti/blob/main/pict/pict2.png)
 
-##### Cari Data
+##### Melihat perubahan data
 ![cari data](https://github.com/ariandto/dicti/blob/main/pict/pict3.png)
 
-##### Hapus Data
+##### Mencari data
 ![hapus data](https://github.com/ariandto/dicti/blob/main/pict/pict4.png)
 
 ##### Lihat data lagi
 ![keluar](https://github.com/ariandto/dicti/blob/main/pict/pict5.png)
 
-##### Keluar2
+##### Keluar    
 ![keluar](https://github.com/ariandto/dicti/blob/main/pict/pict6.png)
